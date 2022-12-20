@@ -1,0 +1,16 @@
+{
+  "name": "instant",
+  "efficiencyMap": {
+    "hand": 1,
+    "hoe": 1,
+    "axe": 1,
+    "shovel": 1,
+    "pickaxe_1": 1,
+    "pickaxe_2": 1,
+    "pickaxe_3": 1,
+    "pickaxe_4": 1,
+    "pickaxe_5": 1,
+    "sword": 1,
+    "sheers": 1
+  }
+}

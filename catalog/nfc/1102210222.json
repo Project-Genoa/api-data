@@ -1,0 +1,60 @@
+{
+  "id": "1102210222",
+  "boostMetadata": {
+    "name": "eating",
+    "attribute": "Eating",
+    "type": "MiniFig",
+    "canBeDeactivated": false,
+    "canBeRemoved": true,
+    "activeDuration": null,
+    "additive": true,
+    "level": 1,
+    "effects": [
+      {
+        "type": "FoodHealth",
+        "duration": "00:10:00",
+        "value": 50,
+        "unit": "Percentage",
+        "targets": "Player",
+        "items": [
+          "04b60854-7133-be6c-caeb-3ab7919b8a62",
+          "55b6f722-3c81-4c0b-3d0d-be68fd8dbd4e",
+          "a30a9a67-c6dd-3d58-5828-43bfda5e3ad3",
+          "4790d989-80ae-e654-e0b3-05081cf6e026",
+          "cd621b71-a549-6751-24a1-41d60618e759",
+          "c6692b8d-e595-591a-bd8a-0f468df3af07",
+          "bd3db2c5-1dbd-8f99-9064-4547590523ef",
+          "d4ac4a79-b2dc-502f-47e2-98e2b2adc74d",
+          "20dbd5fc-06b7-1aa1-5943-7ddaa2061e6a",
+          "f4b33e4e-48cb-1c9f-3974-ab380526a7a6",
+          "76e41f1b-afa5-7e1f-0540-ade5a819b018",
+          "b2972abc-bf65-8b19-aaa9-a67732e6923e",
+          "c2fdbc1c-60ab-396c-22a8-d9a3df37555e",
+          "04eafeb1-0eff-f85e-9ac9-ea6c69024035",
+          "64db15cc-5620-3b5e-22b3-11ceab6a776b",
+          "3a8a26e9-358e-acde-5154-651f4d13a1e5",
+          "36e0ec59-ab45-e654-c5e4-9bda569ea3b7",
+          "c14fc209-f280-bccc-bb4a-6c2a3fc71abc",
+          "9b925673-d56d-435f-4728-0790727b33d3"
+        ],
+        "itemScenarios": [],
+        "activation": "Timed",
+        "modifiesType": "Health"
+      }
+    ],
+    "scenario": null,
+    "cooldown": null
+  },
+  "name": "fishing_polar_bear",
+  "deprecated": false,
+  "toolsVersion": "200228.204513",
+  "type": "NfcMiniFig",
+  "rewards": {
+    "experiencePoints": 100,
+    "inventory": [],
+    "buildplates": [],
+    "challenges": [],
+    "personaItems": [],
+    "utilityBlocks": []
+  }
+}

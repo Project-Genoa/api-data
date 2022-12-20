@@ -1,0 +1,12 @@
+{
+  "name": "golem",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 25,
+    "collectionOrder": 25,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "416fa3b3-0fc8-447b-bae0-556426d408e7",
+    "defaultSound": null
+  }
+}

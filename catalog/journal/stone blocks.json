@@ -1,0 +1,12 @@
+{
+  "name": "stone blocks",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 160,
+    "collectionOrder": 160,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "200b5fd0-74fd-41b9-9b5e-572079b1d400",
+    "defaultSound": null
+  }
+}

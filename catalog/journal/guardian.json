@@ -1,0 +1,12 @@
+{
+  "name": "guardian",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 39,
+    "collectionOrder": 39,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "d513c597-0eb6-4e01-b403-145e2e2557db",
+    "defaultSound": null
+  }
+}

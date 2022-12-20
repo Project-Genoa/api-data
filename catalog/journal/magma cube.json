@@ -1,0 +1,12 @@
+{
+  "name": "magma cube",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 48,
+    "collectionOrder": 48,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "50125e9d-6e18-48b8-802f-8663bf78b976",
+    "defaultSound": null
+  }
+}

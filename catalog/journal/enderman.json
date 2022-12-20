@@ -1,0 +1,12 @@
+{
+  "name": "enderman",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 30,
+    "collectionOrder": 30,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "468e946b-d791-4aa9-89cf-85da5c8f6512",
+    "defaultSound": null
+  }
+}

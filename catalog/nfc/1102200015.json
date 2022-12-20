@@ -1,0 +1,40 @@
+{
+  "id": "1102200015",
+  "boostMetadata": {
+    "name": "hotbar_retention",
+    "attribute": "Retention",
+    "type": "MiniFig",
+    "canBeDeactivated": false,
+    "canBeRemoved": true,
+    "activeDuration": "00:10:00",
+    "additive": true,
+    "level": 1,
+    "effects": [
+      {
+        "type": "RetainHotbar",
+        "duration": null,
+        "value": null,
+        "unit": null,
+        "targets": "Player",
+        "items": [],
+        "itemScenarios": [],
+        "activation": "Triggered",
+        "modifiesType": null
+      }
+    ],
+    "scenario": "Death",
+    "cooldown": null
+  },
+  "name": "undying_evoker",
+  "deprecated": false,
+  "toolsVersion": "200228.204513",
+  "type": "NfcMiniFig",
+  "rewards": {
+    "experiencePoints": 100,
+    "inventory": [],
+    "buildplates": [],
+    "challenges": [],
+    "personaItems": [],
+    "utilityBlocks": []
+  }
+}

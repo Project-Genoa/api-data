@@ -1,0 +1,12 @@
+{
+  "name": "manufactured items",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 59,
+    "collectionOrder": 59,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "916830b1-c054-4dd0-8da4-eca2d9234d7b",
+    "defaultSound": null
+  }
+}

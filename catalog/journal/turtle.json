@@ -1,0 +1,12 @@
+{
+  "name": "turtle",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 24,
+    "collectionOrder": 24,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "8aa7bf4f-826a-4ece-a375-23232858189e",
+    "defaultSound": null
+  }
+}

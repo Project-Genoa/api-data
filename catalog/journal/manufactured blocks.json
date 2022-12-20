@@ -1,0 +1,12 @@
+{
+  "name": "manufactured blocks",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 56,
+    "collectionOrder": 56,
+    "toolsVersion": "200318.020446",
+    "deprecated": false,
+    "referenceId": "b0ca764a-42d6-40c6-b7e9-fa30dfe7efb9",
+    "defaultSound": null
+  }
+}

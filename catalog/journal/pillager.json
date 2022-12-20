@@ -1,0 +1,12 @@
+{
+  "name": "pillager",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 35,
+    "collectionOrder": 35,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "8d21cda0-2650-4d5f-9c56-f9b9fd8dc2d8",
+    "defaultSound": null
+  }
+}

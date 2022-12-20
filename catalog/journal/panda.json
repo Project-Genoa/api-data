@@ -1,0 +1,12 @@
+{
+  "name": "panda",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 12,
+    "collectionOrder": 12,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "97f2e518-72b7-4c37-af38-3d4f618d39f9",
+    "defaultSound": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Nature",
+  "ingredients": [
+    {
+      "quantity": 1,
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702"
+      ]
+    }
+  ],
+  "duration": "00:00:05",
+  "id": "fc565043-9156-46ee-85da-6a8e4afe1515",
+  "output": {
+    "itemId": "6746b7c5-2934-0212-82c5-f60371b377c8",
+    "quantity": 1
+  },
+  "deprecated": false,
+  "returnItems": []
+}

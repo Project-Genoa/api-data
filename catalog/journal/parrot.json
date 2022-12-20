@@ -1,0 +1,12 @@
+{
+  "name": "parrot",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 13,
+    "collectionOrder": 13,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "dace9f26-fca2-462b-adf5-145e795f9676",
+    "defaultSound": null
+  }
+}

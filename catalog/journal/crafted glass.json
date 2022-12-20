@@ -1,0 +1,12 @@
+{
+  "name": "crafted glass",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 156,
+    "collectionOrder": 156,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "1631552b-2eb8-4d26-a225-ddb5bf4a7c32",
+    "defaultSound": null
+  }
+}

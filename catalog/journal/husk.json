@@ -1,0 +1,12 @@
+{
+  "name": "husk",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 42,
+    "collectionOrder": 42,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "02c07714-d5d9-4cb1-a3e8-dbae16c69551",
+    "defaultSound": null
+  }
+}

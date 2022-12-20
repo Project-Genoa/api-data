@@ -1,0 +1,30 @@
+{
+  "category": "Items",
+  "ingredients": [
+    {
+      "quantity": 3,
+      "items": [
+        "735b3ca0-467a-3d93-f91b-fb698f74c230"
+      ]
+    },
+    {
+      "quantity": 3,
+      "items": [
+        "b1bae897-bbe3-226e-b28f-6f94fcbda4db",
+        "8d9b5797-3c36-3219-b1e2-55343d111097",
+        "912d22ac-d74f-1e68-2c66-93eaa4156696",
+        "c7dc9e6e-f7c6-93f7-b60d-9c65129138c8",
+        "ab844b9a-055f-55c2-a708-40245a6d81cb",
+        "cd69e613-bdc7-3451-6c72-4f539e42a236"
+      ]
+    }
+  ],
+  "duration": "00:00:05",
+  "id": "83415375-3128-47ae-a706-54ffe5bf8217",
+  "output": {
+    "itemId": "9a9c0962-fc78-940a-ae6a-c0f5c53230ee",
+    "quantity": 1
+  },
+  "deprecated": false,
+  "returnItems": []
+}

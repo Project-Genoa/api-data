@@ -1,0 +1,12 @@
+{
+  "name": "llama",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 17,
+    "collectionOrder": 17,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "19a41b38-6c7b-4497-a48d-63bb7ebd73cd",
+    "defaultSound": null
+  }
+}

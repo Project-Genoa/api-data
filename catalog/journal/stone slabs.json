@@ -1,0 +1,12 @@
+{
+  "name": "stone slabs",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 163,
+    "collectionOrder": 163,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "5c3e0a9e-0ef6-4bca-b9e7-ab212c0137d1",
+    "defaultSound": null
+  }
+}

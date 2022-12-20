@@ -1,0 +1,12 @@
+{
+  "name": "evoker",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 43,
+    "collectionOrder": 43,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "ea70bcec-19c4-428a-8869-f56b2f5a3f10",
+    "defaultSound": null
+  }
+}

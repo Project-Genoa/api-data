@@ -1,0 +1,12 @@
+{
+  "name": "diamond tools",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 169,
+    "collectionOrder": 169,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "ccace8e2-95ec-41c2-875d-e12adc8aea54",
+    "defaultSound": null
+  }
+}

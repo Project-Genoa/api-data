@@ -1,0 +1,12 @@
+{
+  "name": "silverfish",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 45,
+    "collectionOrder": 45,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "4bb80f46-17a8-4c50-b7c5-83090615c2b2",
+    "defaultSound": null
+  }
+}

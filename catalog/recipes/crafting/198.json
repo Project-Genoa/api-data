@@ -1,0 +1,25 @@
+{
+  "category": "Construction",
+  "ingredients": [
+    {
+      "quantity": 8,
+      "items": [
+        "79c98155-b1d5-13e0-ac5d-a8c3c9a48d83"
+      ]
+    },
+    {
+      "quantity": 1,
+      "items": [
+        "bec40cfb-c78c-abf2-df41-712d44acf4dc"
+      ]
+    }
+  ],
+  "duration": "00:00:05",
+  "id": "253a0adf-54c3-4209-bc4f-a252d0bc148e",
+  "output": {
+    "itemId": "65e4db5b-ec63-0fa1-318b-ae1c5e604c22",
+    "quantity": 8
+  },
+  "deprecated": false,
+  "returnItems": []
+}

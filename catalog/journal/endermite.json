@@ -1,0 +1,12 @@
+{
+  "name": "endermite",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 52,
+    "collectionOrder": 52,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "cecb9b72-ba9b-42f6-89ce-3c217e81e8ba",
+    "defaultSound": null
+  }
+}

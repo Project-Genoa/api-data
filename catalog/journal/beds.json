@@ -1,0 +1,12 @@
+{
+  "name": "beds",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 158,
+    "collectionOrder": 158,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "9e80c5bf-0ae2-4342-b2ba-488127faccba",
+    "defaultSound": null
+  }
+}

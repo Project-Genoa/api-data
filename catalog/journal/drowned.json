@@ -1,0 +1,12 @@
+{
+  "name": "drowned",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 38,
+    "collectionOrder": 38,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "8023f025-e502-45c1-b84c-8ed2cda671c8",
+    "defaultSound": null
+  }
+}

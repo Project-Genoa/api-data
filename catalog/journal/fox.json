@@ -1,0 +1,12 @@
+{
+  "name": "fox",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 16,
+    "collectionOrder": 16,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "35e8ed69-eab0-43c8-a8fb-4cb16ad28fc2",
+    "defaultSound": null
+  }
+}

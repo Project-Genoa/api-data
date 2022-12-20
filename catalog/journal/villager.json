@@ -1,0 +1,12 @@
+{
+  "name": "villager",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 21,
+    "collectionOrder": 21,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "82c0a9b3-f078-4b55-ac4e-c5eb4624f1e8",
+    "defaultSound": null
+  }
+}

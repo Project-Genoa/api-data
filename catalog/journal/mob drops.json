@@ -1,0 +1,12 @@
+{
+  "name": "mob drops",
+  "item": {
+    "parentCollection": "Blocks",
+    "overallOrder": 58,
+    "collectionOrder": 58,
+    "toolsVersion": "200417.191156",
+    "deprecated": false,
+    "referenceId": "172d601c-ed50-4b73-948e-e4fbd199fdbb",
+    "defaultSound": null
+  }
+}

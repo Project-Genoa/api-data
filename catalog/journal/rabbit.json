@@ -1,0 +1,12 @@
+{
+  "name": "rabbit",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 6,
+    "collectionOrder": 6,
+    "toolsVersion": "200410.014913",
+    "deprecated": false,
+    "referenceId": "22aa5286-6feb-4ad6-9ca8-b429e45fe464",
+    "defaultSound": null
+  }
+}

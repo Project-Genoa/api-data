@@ -1,0 +1,25 @@
+{
+  "category": "Equipment",
+  "ingredients": [
+    {
+      "quantity": 1,
+      "items": [
+        "bbba2027-8d33-bcce-535c-79ea94c22cee"
+      ]
+    },
+    {
+      "quantity": 2,
+      "items": [
+        "ab7b4993-c7f9-bfd9-9ada-7f60b1953466"
+      ]
+    }
+  ],
+  "duration": "00:00:05",
+  "id": "351528fe-603d-4771-9b16-85deda7682f6",
+  "output": {
+    "itemId": "fd595ab4-a2c8-b278-caf7-91021fd32811",
+    "quantity": 8
+  },
+  "deprecated": false,
+  "returnItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "name": "shulker",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 51,
+    "collectionOrder": 51,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "a422b194-336f-473f-b826-e914a33824f4",
+    "defaultSound": null
+  }
+}

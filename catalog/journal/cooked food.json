@@ -1,0 +1,12 @@
+{
+  "name": "cooked food",
+  "item": {
+    "parentCollection": "ItemsSmelted",
+    "overallOrder": 66,
+    "collectionOrder": 66,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "694c6aa8-fe6b-4548-b901-ece580949cf9",
+    "defaultSound": null
+  }
+}

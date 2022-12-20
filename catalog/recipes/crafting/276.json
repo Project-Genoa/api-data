@@ -1,0 +1,25 @@
+{
+  "category": "Items",
+  "ingredients": [
+    {
+      "quantity": 1,
+      "items": [
+        "ee36c362-6711-f648-980e-96cc891bec56"
+      ]
+    },
+    {
+      "quantity": 1,
+      "items": [
+        "a278b35c-297d-f144-8625-be5fe5d46143"
+      ]
+    }
+  ],
+  "duration": "00:00:05",
+  "id": "a8bdfe72-0f0a-42b6-8739-7ec42fc609ed",
+  "output": {
+    "itemId": "c2fead8a-3539-da39-047c-4c156c4438fe",
+    "quantity": 4
+  },
+  "deprecated": false,
+  "returnItems": []
+}

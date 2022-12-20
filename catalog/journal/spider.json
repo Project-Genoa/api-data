@@ -1,0 +1,12 @@
+{
+  "name": "spider",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 28,
+    "collectionOrder": 28,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "b11ff0e2-2a17-4d8a-8503-0586aaa37e88",
+    "defaultSound": null
+  }
+}

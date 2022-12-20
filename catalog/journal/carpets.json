@@ -1,0 +1,12 @@
+{
+  "name": "carpets",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 159,
+    "collectionOrder": 159,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "ac901d21-521b-4972-9d64-eea732a0abd5",
+    "defaultSound": null
+  }
+}

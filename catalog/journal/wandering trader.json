@@ -1,0 +1,12 @@
+{
+  "name": "wandering trader",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 20,
+    "collectionOrder": 20,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "ece0b1cb-9697-460f-aeff-b351a899bb2f",
+    "defaultSound": null
+  }
+}

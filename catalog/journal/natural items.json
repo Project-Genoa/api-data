@@ -1,0 +1,12 @@
+{
+  "name": "natural items",
+  "item": {
+    "parentCollection": "Blocks",
+    "overallOrder": 101,
+    "collectionOrder": 101,
+    "toolsVersion": "200416.162534",
+    "deprecated": false,
+    "referenceId": "ca73193a-bea5-4e04-ba23-b7c10bbe66e1",
+    "defaultSound": null
+  }
+}

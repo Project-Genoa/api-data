@@ -1,0 +1,12 @@
+{
+  "name": "stone walls",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 162,
+    "collectionOrder": 162,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "321375c1-91d7-4159-b9d3-a75141e00eae",
+    "defaultSound": null
+  }
+}

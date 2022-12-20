@@ -1,0 +1,12 @@
+{
+  "name": "ocelot",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 11,
+    "collectionOrder": 11,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "e1d46d9b-526c-487e-8651-172172f6145d",
+    "defaultSound": null
+  }
+}

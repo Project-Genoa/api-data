@@ -1,0 +1,40 @@
+{
+  "id": "1102200014",
+  "boostMetadata": {
+    "name": "mining_speed",
+    "attribute": "MiningSpeed",
+    "type": "MiniFig",
+    "canBeDeactivated": false,
+    "canBeRemoved": true,
+    "activeDuration": null,
+    "additive": true,
+    "level": 1,
+    "effects": [
+      {
+        "type": "BlockDamage",
+        "duration": "00:10:00",
+        "value": 25,
+        "unit": "Percentage",
+        "targets": "Player",
+        "items": [],
+        "itemScenarios": [],
+        "activation": "Timed",
+        "modifiesType": null
+      }
+    ],
+    "scenario": null,
+    "cooldown": null
+  },
+  "name": "mining_creeper",
+  "deprecated": false,
+  "toolsVersion": "200228.204513",
+  "type": "NfcMiniFig",
+  "rewards": {
+    "experiencePoints": 100,
+    "inventory": [],
+    "buildplates": [],
+    "challenges": [],
+    "personaItems": [],
+    "utilityBlocks": []
+  }
+}

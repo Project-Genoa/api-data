@@ -1,0 +1,12 @@
+{
+  "name": "zombie",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 29,
+    "collectionOrder": 29,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "5d90b742-8502-4609-b900-6caae44b3e15",
+    "defaultSound": null
+  }
+}

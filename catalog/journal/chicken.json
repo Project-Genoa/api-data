@@ -1,0 +1,12 @@
+{
+  "name": "chicken",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 1,
+    "collectionOrder": 1,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "5d2a082e-a7e8-472e-bd41-770e6ce6bca0",
+    "defaultSound": null
+  }
+}

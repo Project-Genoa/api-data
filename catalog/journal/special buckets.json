@@ -1,0 +1,12 @@
+{
+  "name": "special buckets",
+  "item": {
+    "parentCollection": "Blocks",
+    "overallOrder": 149,
+    "collectionOrder": 149,
+    "toolsVersion": "200416.162534",
+    "deprecated": false,
+    "referenceId": "1c0dfcc5-136f-4d8f-86a8-993fbeb55394",
+    "defaultSound": null
+  }
+}

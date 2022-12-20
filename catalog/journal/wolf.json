@@ -1,0 +1,12 @@
+{
+  "name": "wolf",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 15,
+    "collectionOrder": 15,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "ea2c85c4-6048-477a-9831-5699387c4c95",
+    "defaultSound": null
+  }
+}

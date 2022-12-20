@@ -1,0 +1,40 @@
+{
+  "id": "1102327946",
+  "boostMetadata": {
+    "name": "attack",
+    "attribute": "Strength",
+    "type": "MiniFig",
+    "canBeDeactivated": false,
+    "canBeRemoved": true,
+    "activeDuration": null,
+    "additive": true,
+    "level": 1,
+    "effects": [
+      {
+        "type": "AttackDamage",
+        "duration": "00:10:00",
+        "value": 25,
+        "unit": "Percentage",
+        "targets": "Player",
+        "items": [],
+        "itemScenarios": [],
+        "activation": "Timed",
+        "modifiesType": null
+      }
+    ],
+    "scenario": null,
+    "cooldown": null
+  },
+  "name": "poison_enderman",
+  "deprecated": false,
+  "toolsVersion": "200407.223558",
+  "type": "NfcMiniFig",
+  "rewards": {
+    "experiencePoints": 100,
+    "inventory": [],
+    "buildplates": [],
+    "challenges": [],
+    "personaItems": [],
+    "utilityBlocks": []
+  }
+}

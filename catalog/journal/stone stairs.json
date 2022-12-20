@@ -1,0 +1,12 @@
+{
+  "name": "stone stairs",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 161,
+    "collectionOrder": 161,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "9d1fcdc7-b126-4795-97de-3db9d031a28d",
+    "defaultSound": null
+  }
+}

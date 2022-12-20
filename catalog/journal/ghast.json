@@ -1,0 +1,12 @@
+{
+  "name": "ghast",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 47,
+    "collectionOrder": 47,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "4e68f10d-7702-49c0-a747-ea270fb18dd4",
+    "defaultSound": null
+  }
+}

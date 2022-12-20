@@ -1,0 +1,40 @@
+{
+  "id": "1102200016",
+  "boostMetadata": {
+    "name": "max_health",
+    "attribute": "MaximumPlayerHealth",
+    "type": "MiniFig",
+    "canBeDeactivated": false,
+    "canBeRemoved": true,
+    "activeDuration": null,
+    "additive": true,
+    "level": 1,
+    "effects": [
+      {
+        "type": "MaximumPlayerHealth",
+        "duration": "00:10:00",
+        "value": 10,
+        "unit": "Percentage",
+        "targets": "Player",
+        "items": [],
+        "itemScenarios": [],
+        "activation": "Timed",
+        "modifiesType": null
+      }
+    ],
+    "scenario": null,
+    "cooldown": null
+  },
+  "name": "snacking_rabbit",
+  "deprecated": false,
+  "toolsVersion": "200228.204513",
+  "type": "NfcMiniFig",
+  "rewards": {
+    "experiencePoints": 100,
+    "inventory": [],
+    "buildplates": [],
+    "challenges": [],
+    "personaItems": [],
+    "utilityBlocks": []
+  }
+}

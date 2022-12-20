@@ -1,0 +1,12 @@
+{
+  "name": "golden tools",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 168,
+    "collectionOrder": 168,
+    "toolsVersion": "200416.204504",
+    "deprecated": false,
+    "referenceId": "615be310-84cf-46e3-af54-3f5a5ed02ee5",
+    "defaultSound": null
+  }
+}

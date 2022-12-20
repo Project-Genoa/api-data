@@ -1,0 +1,12 @@
+{
+  "name": "slime",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 33,
+    "collectionOrder": 33,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "c9d1a76c-fe31-4e6e-a1e1-72b2904ffc3f",
+    "defaultSound": null
+  }
+}

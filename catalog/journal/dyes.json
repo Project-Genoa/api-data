@@ -1,0 +1,12 @@
+{
+  "name": "dyes",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 164,
+    "collectionOrder": 164,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "3a4a1ed2-306a-4efd-b346-64bfc5797c7c",
+    "defaultSound": null
+  }
+}

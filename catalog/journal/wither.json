@@ -1,0 +1,12 @@
+{
+  "name": "wither",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 54,
+    "collectionOrder": 54,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "affc3174-ea3d-4f8a-bfaa-8c35e9497c9c",
+    "defaultSound": null
+  }
+}

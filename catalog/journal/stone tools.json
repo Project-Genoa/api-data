@@ -1,0 +1,12 @@
+{
+  "name": "stone tools",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 166,
+    "collectionOrder": 166,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "3d500654-467f-47e9-9213-71455fcf7215",
+    "defaultSound": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "skeleton",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 27,
+    "collectionOrder": 27,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "3a2d6a5c-8576-46e3-9472-96c8dc0dbd5a",
+    "defaultSound": null
+  }
+}

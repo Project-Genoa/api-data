@@ -1,0 +1,12 @@
+{
+  "name": "iron tools",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 167,
+    "collectionOrder": 167,
+    "toolsVersion": "200416.204504",
+    "deprecated": false,
+    "referenceId": "cb0b71c7-a7cf-44a0-84dd-c6a1195ceeb8",
+    "defaultSound": null
+  }
+}

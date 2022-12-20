@@ -1,0 +1,11 @@
+{
+  "inputItemId": "9232119c-c87c-6aa1-507d-5c71b84d5231",
+  "heatRequired": 625,
+  "id": "b3f5a773-47f2-4566-b569-43b536fab0ca",
+  "output": {
+    "itemId": "7cbf2e64-0dd7-2151-13e3-e22d0123fe29",
+    "quantity": 1
+  },
+  "deprecated": false,
+  "returnItems": []
+}

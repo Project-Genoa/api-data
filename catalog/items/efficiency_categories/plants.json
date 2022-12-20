@@ -1,0 +1,16 @@
+{
+  "name": "plants",
+  "efficiencyMap": {
+    "hand": 1,
+    "hoe": 0.5,
+    "axe": 2,
+    "shovel": 0.5,
+    "pickaxe_1": 0.5,
+    "pickaxe_2": 0.5,
+    "pickaxe_3": 0.5,
+    "pickaxe_4": 0.5,
+    "pickaxe_5": 0.5,
+    "sword": 2,
+    "sheers": 2
+  }
+}

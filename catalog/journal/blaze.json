@@ -1,0 +1,12 @@
+{
+  "name": "blaze",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 46,
+    "collectionOrder": 46,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "54cec907-6f49-45bb-b74a-fcfc3c2d99cc",
+    "defaultSound": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "food",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 62,
+    "collectionOrder": 62,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "13d203e1-403a-41f5-87f0-544bf5f52c44",
+    "defaultSound": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "coal",
+  "item": {
+    "parentCollection": "ItemsSmelted",
+    "overallOrder": 202,
+    "collectionOrder": 202,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "470a86b1-62d4-4814-92eb-d31dd2fccfab",
+    "defaultSound": null
+  }
+}

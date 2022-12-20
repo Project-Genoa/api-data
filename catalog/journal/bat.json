@@ -1,0 +1,12 @@
+{
+  "name": "bat",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 18,
+    "collectionOrder": 18,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "246c1c31-b7b9-4b6d-b7d8-7e66c6d7114e",
+    "defaultSound": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "zombie villager",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 34,
+    "collectionOrder": 34,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "6b2a62f2-4cac-4782-a607-220f8c0083c8",
+    "defaultSound": null
+  }
+}

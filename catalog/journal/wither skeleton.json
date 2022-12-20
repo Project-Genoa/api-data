@@ -1,0 +1,12 @@
+{
+  "name": "wither skeleton",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 49,
+    "collectionOrder": 49,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "bf46df89-fc7e-40de-8e9d-a42aacd5a3d3",
+    "defaultSound": null
+  }
+}

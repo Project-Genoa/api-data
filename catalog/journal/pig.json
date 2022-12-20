@@ -1,0 +1,12 @@
+{
+  "name": "pig",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 4,
+    "collectionOrder": 4,
+    "toolsVersion": "200330.181730",
+    "deprecated": false,
+    "referenceId": "07203e3c-3beb-4656-8b71-08fb2de0ebde",
+    "defaultSound": null
+  }
+}

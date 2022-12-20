@@ -1,0 +1,12 @@
+{
+  "name": "bee",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 7,
+    "collectionOrder": 7,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "98ee3804-3b16-4ad0-a7b6-a4a5e681658a",
+    "defaultSound": null
+  }
+}

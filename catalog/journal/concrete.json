@@ -1,0 +1,12 @@
+{
+  "name": "concrete",
+  "item": {
+    "parentCollection": "Blocks",
+    "overallOrder": 155,
+    "collectionOrder": 155,
+    "toolsVersion": "200526.173531",
+    "deprecated": false,
+    "referenceId": "2ad066df-71ff-42ac-91c4-12c95d8e52d1",
+    "defaultSound": "journal.select.stone"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "equipment",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 61,
+    "collectionOrder": 61,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "8d4125a4-2bea-49ac-8927-05e7bb49209b",
+    "defaultSound": null
+  }
+}

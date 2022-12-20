@@ -1,0 +1,40 @@
+{
+  "id": "1102200076",
+  "boostMetadata": {
+    "name": "tappable_radius",
+    "attribute": "TappableInteractionRadius",
+    "type": "MiniFig",
+    "canBeDeactivated": false,
+    "canBeRemoved": true,
+    "activeDuration": null,
+    "additive": true,
+    "level": 1,
+    "effects": [
+      {
+        "type": "TappableInteractionRadius",
+        "duration": "00:10:00",
+        "value": 35,
+        "unit": "Increment",
+        "targets": "Player",
+        "items": [],
+        "itemScenarios": [],
+        "activation": "Timed",
+        "modifiesType": null
+      }
+    ],
+    "scenario": null,
+    "cooldown": null
+  },
+  "name": "crafting_villager",
+  "deprecated": false,
+  "toolsVersion": "201116.234735",
+  "type": "NfcMiniFig",
+  "rewards": {
+    "experiencePoints": 100,
+    "inventory": [],
+    "buildplates": [],
+    "challenges": [],
+    "personaItems": [],
+    "utilityBlocks": []
+  }
+}

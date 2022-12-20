@@ -1,0 +1,12 @@
+{
+  "name": "mechanisms",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 60,
+    "collectionOrder": 60,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "16cab3d2-988b-4a63-9968-9e991c11654d",
+    "defaultSound": null
+  }
+}

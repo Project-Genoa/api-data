@@ -1,0 +1,12 @@
+{
+  "name": "polar bear",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 14,
+    "collectionOrder": 14,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "6616c973-ad55-4660-acc1-7176d611ea48",
+    "defaultSound": null
+  }
+}

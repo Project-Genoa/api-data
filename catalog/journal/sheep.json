@@ -1,0 +1,12 @@
+{
+  "name": "sheep",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 3,
+    "collectionOrder": 3,
+    "toolsVersion": "200416.014913",
+    "deprecated": false,
+    "referenceId": "5a6092b9-cb39-42f2-8c4b-e56b248f8a1b",
+    "defaultSound": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "horse",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 8,
+    "collectionOrder": 8,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "845e9e3b-59dc-4e40-a221-d4a4205055c7",
+    "defaultSound": null
+  }
+}

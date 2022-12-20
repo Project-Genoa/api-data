@@ -1,0 +1,12 @@
+{
+  "name": "cow",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 2,
+    "collectionOrder": 2,
+    "toolsVersion": "200330.181730",
+    "deprecated": false,
+    "referenceId": "95d73e11-599e-47d0-9edd-2947edcef32a",
+    "defaultSound": null
+  }
+}

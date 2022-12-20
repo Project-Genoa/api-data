@@ -1,0 +1,12 @@
+{
+  "name": "vex",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 44,
+    "collectionOrder": 44,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "998226c7-68d9-492e-b2da-5263905d45e2",
+    "defaultSound": null
+  }
+}

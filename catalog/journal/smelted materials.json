@@ -1,0 +1,12 @@
+{
+  "name": "smelted materials",
+  "item": {
+    "parentCollection": "ItemsSmelted",
+    "overallOrder": 65,
+    "collectionOrder": 65,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "fb6c234f-3ab8-43fb-8710-8fbb86c310d2",
+    "defaultSound": null
+  }
+}

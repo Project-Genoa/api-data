@@ -1,0 +1,12 @@
+{
+  "name": "vindicator",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 37,
+    "collectionOrder": 37,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "f0944566-34ba-4f14-99ea-442934d345e5",
+    "defaultSound": null
+  }
+}

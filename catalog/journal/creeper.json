@@ -1,0 +1,12 @@
+{
+  "name": "creeper",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 26,
+    "collectionOrder": 26,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "1bebf702-1caa-4371-9d73-f55cd5a74369",
+    "defaultSound": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fish",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 5,
+    "collectionOrder": 5,
+    "toolsVersion": "200416.014913",
+    "deprecated": false,
+    "referenceId": "a75e0b71-acba-41be-871f-4c40a4b837ba",
+    "defaultSound": null
+  }
+}

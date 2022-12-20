@@ -1,0 +1,12 @@
+{
+  "name": "phantom",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 31,
+    "collectionOrder": 31,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "27ef9ecd-f9db-4638-b745-6e1f413d2b7d",
+    "defaultSound": null
+  }
+}

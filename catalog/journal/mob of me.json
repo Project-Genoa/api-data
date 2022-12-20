@@ -1,0 +1,12 @@
+{
+  "name": "mob of me",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 300,
+    "collectionOrder": 300,
+    "toolsVersion": "200416.162534",
+    "deprecated": false,
+    "referenceId": "fd1723de-3a4e-4640-9622-014421c4ef4c",
+    "defaultSound": null
+  }
+}

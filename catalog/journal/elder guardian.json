@@ -1,0 +1,12 @@
+{
+  "name": "elder guardian",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 40,
+    "collectionOrder": 40,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "c95bda96-4a79-4ba1-b6c1-59dc03c7e67c",
+    "defaultSound": null
+  }
+}

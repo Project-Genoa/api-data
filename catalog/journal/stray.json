@@ -1,0 +1,12 @@
+{
+  "name": "stray",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 41,
+    "collectionOrder": 41,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "0284cf2b-9cf4-4c8b-b2d1-c91108e9abda",
+    "defaultSound": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "category": "Nature",
+  "ingredients": [
+    {
+      "quantity": 6,
+      "items": [
+        "8765f3ca-41b4-455e-a8b6-81358e250ee1"
+      ]
+    },
+    {
+      "quantity": 2,
+      "items": [
+        "a278b35c-297d-f144-8625-be5fe5d46143"
+      ]
+    },
+    {
+      "quantity": 1,
+      "items": [
+        "8fe42e43-3af9-5d9e-941e-0b5d4d6b0741"
+      ]
+    }
+  ],
+  "duration": "01:00:00",
+  "id": "750d8432-c5e1-421b-9dbc-716e9d0ed607",
+  "output": {
+    "itemId": "bd3db2c5-1dbd-8f99-9064-4547590523ef",
+    "quantity": 6
+  },
+  "deprecated": true,
+  "returnItems": []
+}

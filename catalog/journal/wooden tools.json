@@ -1,0 +1,12 @@
+{
+  "name": "wooden tools",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 165,
+    "collectionOrder": 165,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "8b005049-d6df-41a0-8cd4-561111521ea5",
+    "defaultSound": null
+  }
+}

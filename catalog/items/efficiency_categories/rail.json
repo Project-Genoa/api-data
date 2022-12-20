@@ -1,0 +1,16 @@
+{
+  "name": "rail",
+  "efficiencyMap": {
+    "hand": 1,
+    "hoe": 0.45,
+    "axe": 0.45,
+    "shovel": 0.45,
+    "pickaxe_1": 2,
+    "pickaxe_2": 2,
+    "pickaxe_3": 2,
+    "pickaxe_4": 2,
+    "pickaxe_5": 2,
+    "sword": 0.45,
+    "sheers": 0.45
+  }
+}

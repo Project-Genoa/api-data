@@ -1,0 +1,12 @@
+{
+  "name": "donkey",
+  "item": {
+    "parentCollection": "Mobs",
+    "overallOrder": 10,
+    "collectionOrder": 10,
+    "toolsVersion": "200317.205606",
+    "deprecated": false,
+    "referenceId": "7ad1e0b5-0f72-4138-8f6b-1e056ec4ce43",
+    "defaultSound": null
+  }
+}

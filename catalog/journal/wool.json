@@ -1,0 +1,12 @@
+{
+  "name": "wool",
+  "item": {
+    "parentCollection": "ItemsCrafted",
+    "overallOrder": 157,
+    "collectionOrder": 157,
+    "toolsVersion": "200416.175621",
+    "deprecated": false,
+    "referenceId": "c7434e2d-073b-4e3e-9a28-14f1765e820c",
+    "defaultSound": null
+  }
+}
