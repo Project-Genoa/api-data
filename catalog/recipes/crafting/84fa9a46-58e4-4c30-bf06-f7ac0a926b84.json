@@ -1,0 +1,19 @@
+{
+  "id": "84fa9a46-58e4-4c30-bf06-f7ac0a926b84",
+  "deprecated": false,
+  "displayCategory": "Nature",
+  "input": [
+    {
+      "itemIds": [
+        "a3be4f81-d501-ba71-a343-925a8106316e"
+      ],
+      "count": 3
+    }
+  ],
+  "output": {
+    "itemId": "74b80b10-4980-b079-5b4f-5f5051477cce",
+    "count": 24
+  },
+  "returnItems": [],
+  "duration": 5
+}

@@ -1,0 +1,25 @@
+{
+  "id": "efad7ca8-7c55-4c14-9d87-9694838db673",
+  "deprecated": false,
+  "displayCategory": "Equipment",
+  "input": [
+    {
+      "itemIds": [
+        "8765f3ca-41b4-455e-a8b6-81358e250ee1"
+      ],
+      "count": 2
+    },
+    {
+      "itemIds": [
+        "a278b35c-297d-f144-8625-be5fe5d46143"
+      ],
+      "count": 1
+    }
+  ],
+  "output": {
+    "itemId": "fb0cc5c4-f6a9-4f60-a37f-be521d1bcafc",
+    "count": 1
+  },
+  "returnItems": [],
+  "duration": 5
+}

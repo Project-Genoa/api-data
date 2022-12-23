@@ -1,0 +1,44 @@
+{
+  "id": "174a8d7a-98ca-4b85-8e5b-91e0cf81fe0a",
+  "deprecated": false,
+  "displayCategory": "Equipment",
+  "input": [
+    {
+      "itemIds": [
+        "b2972abc-bf65-8b19-aaa9-a67732e6923e"
+      ],
+      "count": 1
+    },
+    {
+      "itemIds": [
+        "c2fdbc1c-60ab-396c-22a8-d9a3df37555e"
+      ],
+      "count": 1
+    },
+    {
+      "itemIds": [
+        "a1aaafc1-3fe0-118d-15f7-1edec233ce78"
+      ],
+      "count": 1
+    },
+    {
+      "itemIds": [
+        "a2ff336f-5122-1736-c0d6-1556fe9d3e50"
+      ],
+      "count": 1
+    },
+    {
+      "itemIds": [
+        "88ffe819-aefb-e080-5ef5-e04244a387e1",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "count": 1
+    }
+  ],
+  "output": {
+    "itemId": "1d5d04e0-b25d-1580-8992-dec134838d71",
+    "count": 1
+  },
+  "returnItems": [],
+  "duration": 5
+}

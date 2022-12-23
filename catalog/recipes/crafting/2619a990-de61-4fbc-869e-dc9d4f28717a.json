@@ -1,0 +1,30 @@
+{
+  "id": "2619a990-de61-4fbc-869e-dc9d4f28717a",
+  "deprecated": false,
+  "displayCategory": "Items",
+  "input": [
+    {
+      "itemIds": [
+        "8c88d2c8-e0e0-5798-5d0b-b828c96fdf63"
+      ],
+      "count": 3
+    },
+    {
+      "itemIds": [
+        "b1bae897-bbe3-226e-b28f-6f94fcbda4db",
+        "8d9b5797-3c36-3219-b1e2-55343d111097",
+        "912d22ac-d74f-1e68-2c66-93eaa4156696",
+        "c7dc9e6e-f7c6-93f7-b60d-9c65129138c8",
+        "ab844b9a-055f-55c2-a708-40245a6d81cb",
+        "cd69e613-bdc7-3451-6c72-4f539e42a236"
+      ],
+      "count": 6
+    }
+  ],
+  "output": {
+    "itemId": "f4303405-3ff8-690c-104f-e7c42fe35c9d",
+    "count": 1
+  },
+  "returnItems": [],
+  "duration": 5
+}

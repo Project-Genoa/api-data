@@ -1,0 +1,25 @@
+{
+  "id": "721ea41c-1208-496f-ab82-9e5619c2e25a",
+  "deprecated": false,
+  "displayCategory": "Items",
+  "input": [
+    {
+      "itemIds": [
+        "9a95f0ef-3009-5c99-c1ee-d9dae9320f9e"
+      ],
+      "count": 1
+    },
+    {
+      "itemIds": [
+        "c3a5c83b-9c0f-275a-b101-bc0ae6d32e1e"
+      ],
+      "count": 1
+    }
+  ],
+  "output": {
+    "itemId": "eed33bfa-83cd-5bd9-a371-f58ea1f4e0d0",
+    "count": 1
+  },
+  "returnItems": [],
+  "duration": 5
+}

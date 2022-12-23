@@ -1,0 +1,39 @@
+{
+  "id": "86784d6c-3768-4eff-b8af-b9796a2a827c",
+  "deprecated": true,
+  "displayCategory": "Construction",
+  "input": [
+    {
+      "itemIds": [
+        "e8c95c6f-a9d1-449e-1592-edd14f0cd1d4",
+        "6f6ed314-7f7d-d045-d574-737827cc564a",
+        "804cdae8-3af6-71fb-e773-a02c422d73fc",
+        "0c5902e8-5cdc-900a-5026-d968e454a888",
+        "e54e76d7-d7a7-b16f-de7a-5b158b29db70",
+        "735b3ca0-467a-3d93-f91b-fb698f74c230",
+        "bbda2d50-b0c9-ac2f-be13-33e620f40c36",
+        "2cb7a700-f2cf-ae06-7cd8-f3c8afbaf130",
+        "ea138f37-7220-a5c8-8e07-7ba7ae3694ec",
+        "848dc6b9-2a79-753e-959e-707ddd6e05b7",
+        "f3e30b84-ebc9-298c-719d-acea0c0765f2",
+        "f02ea140-d657-cbbe-e1a3-fca59f9a8a29",
+        "fb3151e7-85d1-5751-2ed7-decd4654498a",
+        "414165d7-2350-a714-df99-04bd2add7ec8",
+        "0781532f-b3bc-ad53-b057-64f8166c5b76"
+      ],
+      "count": 1
+    },
+    {
+      "itemIds": [
+        "107114ae-bd76-a88c-5c32-9494486b9de9"
+      ],
+      "count": 1
+    }
+  ],
+  "output": {
+    "itemId": "f1d30067-013c-0e1a-d648-59a016413ae1",
+    "count": 1
+  },
+  "returnItems": [],
+  "duration": 15
+}

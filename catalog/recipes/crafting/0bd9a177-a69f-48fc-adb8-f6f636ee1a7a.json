@@ -1,0 +1,25 @@
+{
+  "id": "0bd9a177-a69f-48fc-adb8-f6f636ee1a7a",
+  "deprecated": false,
+  "displayCategory": "Construction",
+  "input": [
+    {
+      "itemIds": [
+        "527a2c40-7a49-221a-a136-37968becb2f1"
+      ],
+      "count": 8
+    },
+    {
+      "itemIds": [
+        "b94a62e0-31c8-9a44-3fae-0cb82107a426"
+      ],
+      "count": 1
+    }
+  ],
+  "output": {
+    "itemId": "c9afbac2-6046-53bc-2471-812a9e0fe4c5",
+    "count": 8
+  },
+  "returnItems": [],
+  "duration": 5
+}
